@@ -4,9 +4,9 @@ A fun and interactive Rock Paper Scissor game built using **HTML**, **CSS**, and
 
 ## 🔗 Live Demo
 
-👉 [Play the game now](https://your-username.github.io/Rock-Paper-Scissor-App/)
+👉 [Play the game now](https://mindhiramsai.github.io/Rock-Paper-Sicssor/)
 
-> Replace the URL above with your GitHub Pages link after enabling GitHub Pages.
+
 
 ## 📸 Screenshot
 ![Screenshot 2025-05-09 172320](https://github.com/user-attachments/assets/d2dd02d6-76f2-4c05-a1fb-7ecc6ab6f07a)
