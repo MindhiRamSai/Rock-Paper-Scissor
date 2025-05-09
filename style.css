@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1{
+    background-color: black;
+    color: white;
+    height:60px;
+    line-height: 60px;
+}
+.choice{
+    height: 150px;
+    width:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.choice:hover{
+    cursor: pointer;
+    background-color: black;
+}
+img{
+    height: 140px;
+    width: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.choices{
+    height:250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
+.score-board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:80px;
+    font-size: 28px;
+    font-weight: 600;
+}
+#your-score,#comp-score{
+    font-size: 36px;
+}
+.win-msg{
+    margin-top: 30px;
+}
+.win{
+    font-size: 24px;
+    font-weight: 600;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    display: inline;
+}
+.draw{
+    background-color: orange;
+}
+.won{
+    background-color: green;
+}
+.lost{
+    background-color: red;
+}
