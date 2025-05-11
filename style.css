@@ -66,3 +66,36 @@ img{
 .lost{
     background-color: red;
 }
+@media (max-width:426px){
+    h1{
+        font-size: 28px;
+        height:50px;
+        line-height: 50px;
+    }
+    .choice{
+    height: 90px;
+    width:90px;
+}
+.choices{
+    gap:10px;
+    height:150px;
+}
+img{
+    height: 85px;
+    width: 85px;
+}
+#your-score,#comp-score{
+    font-size: 26px;
+}
+.score-board{
+    gap:50px;
+    font-size: 22px;
+}
+.win-msg{
+    margin-top: 15px;
+}
+.win{
+    padding: 4px;
+    font-size: 14px;
+}
+}
