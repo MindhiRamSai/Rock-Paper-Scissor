@@ -4,7 +4,7 @@ A fun and interactive Rock Paper Scissor game built using **HTML**, **CSS**, and
 
 ## 🔗 Live Demo
 
-👉 [Play the game now](https://mindhiramsai.github.io/Rock-Paper-Sicssor/)
+👉 [Play the game now](https://mindhiramsai.github.io/Rock-Paper-Scissor/)
 
 
 
